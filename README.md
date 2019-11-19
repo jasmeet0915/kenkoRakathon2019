@@ -2,19 +2,19 @@
 This project was developed in Rakathon 2019 organised by Rakuten in Bengaluru.
  
 ## Techstack: 
-~Flutter Framework, Dart 
-Raspberry Pi
-~Rakuten Rapid API for Microsoft’s Computer Vision API
-~Python
-~Firebase
-~HTML5, CSS3
+- Flutter Framework, Dart 
+- Raspberry Pi
+- Rakuten Rapid API for Microsoft’s Computer Vision API
+- Python
+- Firebase
+- HTML5, CSS3
 
 ## Hardware: 
-~RC522 Reader RFID HF Module
-~RFID Tag and Card
-~Raspberry Pi model 3B
+- RC522 Reader RFID HF Module
+- RFID Tag and Card
+- Raspberry Pi model 3B
 
-It is Aadhar for Medicine.
+It is **Aadhar for Medicine**.
 We aim to provide frictionless user experience.
 
 ## Objective: 
