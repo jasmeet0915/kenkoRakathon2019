@@ -1,7 +1,7 @@
 # Kenko Medical Health Card
 This project was developed in Rakathon 2019 organised by Rakuten in Bengaluru.
  
-## Techstack : 
+## Techstack: 
 ~Flutter Framework, Dart
 ~Raspberry Pi
 ~Rakuten Rapid API for Microsoft’s Computer Vision API
@@ -9,15 +9,16 @@ This project was developed in Rakathon 2019 organised by Rakuten in Bengaluru.
 ~Firebase
 ~HTML5, CSS3
 
-## Hardware used: 
+## Hardware: 
 ~RC522 Reader RFID HF Module
 ~RFID Tag and Card
 ~Raspberry Pi model 3B
 
-It is ## Aadhar for Medicine.
+It is ##Aadhar for Medicine.
 We aim to provide frictionless user experience.
 
-## Objective: Maintaining and Providing an Electronic Health Record has been defined as the key to providing quality care to patients. Our aim is to create a Universal Medical Identification card that can be used by every citizen just like the Aadhar Card provided by the government. This Medical Card would provide access to the complete medical history of the owner.
+## Objective: 
+Maintaining and Providing an Electronic Health Record has been defined as the key to providing quality care to patients. Our aim is to create a Universal Medical Identification card that can be used by every citizen just like the Aadhar Card provided by the government. This Medical Card would provide access to the complete medical history of the owner.
 
 ## TECHNICAL IMPLEMENTATION: 
 The card will provide authentication through RFID card as the first level of authentication followed by another level of authentication through a password which will provide different access levels.
