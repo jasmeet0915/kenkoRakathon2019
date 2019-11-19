@@ -14,7 +14,7 @@ This project was developed in Rakathon 2019 organised by Rakuten in Bengaluru.
 ~RFID Tag and Card
 ~Raspberry Pi model 3B
 
-It is ##Aadhar for Medicine.
+It is Aadhar for Medicine.
 We aim to provide frictionless user experience.
 
 ## Objective: 
