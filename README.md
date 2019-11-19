@@ -2,8 +2,8 @@
 This project was developed in Rakathon 2019 organised by Rakuten in Bengaluru.
  
 ## Techstack: 
-~Flutter Framework, Dart
-~Raspberry Pi
+~Flutter Framework, Dart 
+Raspberry Pi
 ~Rakuten Rapid API for Microsoft’s Computer Vision API
 ~Python
 ~Firebase
